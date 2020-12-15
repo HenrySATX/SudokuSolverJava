@@ -1,5 +1,3 @@
-package com.company;
-
 import java.util.Arrays;
 
 import static java.util.Arrays.copyOfRange;
